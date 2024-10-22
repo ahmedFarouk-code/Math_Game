@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\abo hdhod\\Projects abohdhd\\Math Game\\",
+  "WorkspaceRootPath": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Math_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D9A71B7-6E6E-4265-B6EA-61E01FA63316}|Math Game.vcxproj|D:\\abo hdhod\\Projects abohdhd\\Math Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8D9A71B7-6E6E-4265-B6EA-61E01FA63316}|Math Game.vcxproj|D:\\abo hdhod\\Projects abohdhd\\My-Github\\Math_Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8D9A71B7-6E6E-4265-B6EA-61E01FA63316}|Math Game.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\Math Game\\Source.cpp",
+              "DocumentMoniker": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Math_Game\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\Math Game\\Source.cpp",
+              "ToolTip": "D:\\abo hdhod\\Projects abohdhd\\My-Github\\Math_Game\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAANIAAAAAAAAAAAAgwBABAAAMAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwJgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-11T22:16:41.8Z",
               "EditorCaption": ""

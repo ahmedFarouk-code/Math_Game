@@ -119,7 +119,8 @@ int RandomNumber(int From, int To)
 				case enOperationType::Mult:
 				return Number1 * Number2;
 
-				case enOperationType::Div: return Number1 / Number2;
+				case enOperationType::Div:
+					return Number1 / Number2;
 				default: 
 				return Number1 + Number2;
 			}
@@ -243,7 +244,11 @@ int RandomNumber(int From, int To)
 			cout << "OpType             : " << GetOpTypeSymbol(Quizz.OpType) << endl;  
 			cout << "Number of Right Answers: " << Quizz.NumberOfRightAnswers << endl;  
 			cout << "Number of Wrong Answers: " << Quizz.NumberOfWrongAnswers << endl;  
-			cout << "_\n"; } void PlayMathGame() { stQuizz Quizz; 
+			cout << "_\n"; }
+		
+		void PlayMathGame()
+		{
+			stQuizz Quizz; 
 			Quizz.NumberOfQuestions = ReadHowManyQuestions();  
 			Quizz.QuestionsLevel = ReadQuestionsLevel();    
 			Quizz.OpType = ReadOpType();     
